@@ -8,5 +8,17 @@
       "id": 2,
       "title": "category2"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "testProduct1",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "testProduct2",
+      "categoryId": 2
+    }
   ]
 }
