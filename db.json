@@ -2,11 +2,18 @@
   "categories": [
     {
       "id": 1,
-      "title": "category1"
+      "title": "Категория 1",
+      "path": "category1"
     },
     {
       "id": 2,
-      "title": "category2"
+      "title": "Категория 2",
+      "path": "category2"
+    },
+    {
+      "id": 3,
+      "title": "Категория 3",
+      "path": "category3"
     }
   ],
   "products": [
