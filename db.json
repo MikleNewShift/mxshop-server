@@ -19,13 +19,50 @@
   "products": [
     {
       "id": 1,
+      "categoryId": 1,
       "title": "testProduct1",
-      "categoryId": 1
+      "price": 5000
     },
     {
       "id": 2,
+      "categoryId": 1,
       "title": "testProduct2",
-      "categoryId": 2
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "title": "testProduct3",
+      "price": 5000
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "title": "testProduct4",
+      "price": 5000
+    },
+    {
+      "id": 5,
+      "title": "Farch",
+      "categoryId": 2,
+      "price": 5000
+    },
+    {
+      "id": 6,
+      "title": "Pivo",
+      "categoryId": 2,
+      "price": 5000
+    },
+    {
+      "id": 7,
+      "title": "Sushi",
+      "categoryId": 3,
+      "price": 5000
+    },    {
+      "id": 8,
+      "title": "testProduct2",
+      "categoryId": 3,
+      "price": 5000
     }
   ]
 }
